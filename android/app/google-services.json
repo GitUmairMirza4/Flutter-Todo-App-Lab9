@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395734858948",
+    "project_id": "posts-app-umair",
+    "storage_bucket": "posts-app-umair.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395734858948:android:4f7c8751edde98fee11d91",
+        "android_client_info": {
+          "package_name": "com.example.lab9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHu8tGCoT5T6_QfMc_n3dQIstiPrmzFqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
